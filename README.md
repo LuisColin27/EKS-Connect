@@ -1,2 +1,2 @@
 # EKS-Connect
-EKS´ Repository
+EKS' Repository
